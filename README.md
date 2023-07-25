@@ -7,7 +7,3 @@ Additional description added.
 
 Additional sub-header text.
 
-## local development
-
-1. Open index.html in your browser.
-
